@@ -11,7 +11,7 @@ The idea was to implement a reading of the database tables that have the car bra
 
 ## Development Setup
 1. **Download the project code locally**
-```
+
 * git clone https://github.com/muhammedctgr/FLASK-DROPDOWN.git
 * cd FLASK-DROPDOWN 
 * code .
