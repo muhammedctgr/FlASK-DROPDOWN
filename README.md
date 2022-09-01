@@ -10,7 +10,7 @@ The idea was to implement a reading of the database tables that have the car bra
  * Postgres
 
 ## Development Setup
-1. **Download the project code locally**
+ **Download the project code locally**
 
 * git clone https://github.com/muhammedctgr/FLASK-DROPDOWN.git
 * cd FLASK-DROPDOWN 
@@ -20,12 +20,12 @@ The idea was to implement a reading of the database tables that have the car bra
 * configure your db uri in app.py
 
 
-5. **Run the development server:**
+ **Run the development server:**
 
 * export FLASK_APP=myapp
 * export FLASK_ENV=development # enables debug mode
 * python3 app.py
 
 
-6. **Verify on the Browser**<br>
+ **Verify on the Browser**<br>
 Navigate to project homepage [http://127.0.0.1:5000/](http://127.0.0.1:5000/) or [http://localhost:5000](http://localhost:5000) 
